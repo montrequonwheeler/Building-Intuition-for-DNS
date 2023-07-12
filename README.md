@@ -63,3 +63,4 @@ This walkthrough focuses on Building Intuition for DNS after the install configu
 <img width="1439" alt="DNS 17" src="https://github.com/montrequonwheeler/building-intuition-for-dns/assets/127397594/504ee27d-2955-4bb5-a624-a8f02380272d">
 
 - Afterwards remember to delete all resource groups to avoid ongoing costs
+<img width="1440" alt="Clean up" src="https://github.com/montrequonwheeler/building-intuition-for-dns/assets/127397594/d04571be-3555-4265-9ffa-675ec2c83acf">
